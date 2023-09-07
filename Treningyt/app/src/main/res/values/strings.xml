@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Treningyt</string>
+    <string name="Logo_text">Калькулятор</string>
+    <string name="hint1">Введите число</string>
+    <string name="hint2">Введите число</string>
+    <string name="Bt">Добавить числа</string>
+</resources>
